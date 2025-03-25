@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0; /* Couleur de fond */
+    font-family: Arial, sans-serif; /* Police du texte */
+    color: #333; /* Couleur du texte */
+}
+
+h1 {
+    color: #007bff; /* Couleur du titre */
+    text-align: center; /* Centrer le titre */
+}
+
+p {
+    font-size: 16px; /* Taille de la police des paragraphes */
+    line-height: 1.5; /* Espacement entre les lignes */
+}
